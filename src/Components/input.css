@@ -1,0 +1,22 @@
+.inputCard{
+    background: darkcyan;
+    width: 30%;
+    margin: 2% auto;
+    height: 30vh;
+    border-radius: 20px;
+
+}
+
+input{
+    margin: 20px auto;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
+
+button{
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    background: gray;
+}

@@ -1,0 +1,15 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  
+}
+
+.main-container{
+  text-align: center;
+  background: lightblue;
+  min-height: 100vh;
+}
+
+.heading{
+  padding-top: 1.5%;
+}
